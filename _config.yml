@@ -1,5 +1,5 @@
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
-title: HASHI
+title: SCANS
 
 callouts_level: quiet # or loud
 callouts:
@@ -19,12 +19,12 @@ callouts:
     color: red
 
 aux_links:
-  "HASHI on GitHub":
-    - "https://github.com/RIVeR-Lab/hashi/tree/main"
+  "SCANS on GitHub":
+    - "https://github.com/PARSES-Lab/scans"
 
 nav_external_links:
-  - title: HASHI on GitHub
-    url: https://github.com/RIVeR-Lab/hashi/tree/main
+  - title: SCANS on GitHub
+    url: https://github.com/PARSES-Lab/scans
 
 back_to_top: true
 back_to_top_text: "Back to top"

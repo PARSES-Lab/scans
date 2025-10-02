@@ -4,9 +4,9 @@ title: Gallery
 nav_order: 2
 ---
 
-# A sample of HASHI doing work
+<!-- # A sample of HASHI doing work -->
 
-<html lang="en-US">
+<!-- <html lang="en-US">
 <div style="text-align: center;">
   <figure>
       <img src="./media/HASHI_edamame.png" alt="HASHI holding an edamame">
@@ -38,6 +38,6 @@ nav_order: 2
     </figcaption>
   </figure>
 </div>
-</html>
+</html> -->
 
-# MORE COMING SOON
+# COMING SOON
