@@ -5,7 +5,6 @@ nav_order: 1
 description: "SCANS"
 permalink: /
 ---
-<!DOCTYPE html>
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
