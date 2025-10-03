@@ -43,19 +43,19 @@
   },"7": {
     "doc": "Home",
     "title": "SCANS: A Soft Gripper with Curvature and Spectroscopy Sensors for In-Hand Material Differentiation",
-    "content": "Nathaniel Hanson1,2*, Austin Allison1*, Charles DiMarzio1, Taşkın Padır1,3, Kristen L. Dorsey1 . 1Northeastern University, 2MIT Lincoln Laboratory, 3Amazon Robotics ",
+    "content": "Nathaniel Hanson1,2*, Austin Allison1*, Charles DiMarzio1, Taşkın Padır1,3, Kristen L. Dorsey1 . 1Northeastern University, 2MIT Lincoln Laboratory, 3Amazon Robotics . ∗These authors contributed equally . Correspondence: nhanson2 [@] mit [.] edu . ",
     "url": "/",
     "relUrl": "/"
   },"8": {
     "doc": "Home",
     "title": "Abstract",
-    "content": "We introduce the soft curvature and spectroscopy (SCANS) system: a versatile, electronics-free, fluidically actuated soft manipulator capable of assessing the spectral properties of objects either in hand or through pre-touch caging. This platform offers a wider spectral sensing capability than previous soft robotic counterparts. We perform a material analysis to explore optimal soft substrates for spectral sensing, and evaluate both pre-touch and in-hand performance. Experiments demonstrate explainable, statistical separation across diverse object classes and sizes (metal, wood, plastic, organic, paper, foam), with large spectral angle differences between items. Through linear discriminant analysis, we show that sensitivity in the near-infrared wavelengths is critical to distinguishing visually similar objects. These capabilities advance the potential of optics as a multi-functional sensory modality for soft robots. ∗These authors contributed equally HASHI holding a piece of salmon nigiri Link to the Github . ArXiv Link Coming Soon . Bibtex . @misc{hanson2025scans, title={HASHI: Highly Adaptable Seafood Handling Instrument for Manipulation in Industrial Settings}, author={Nathaniel Hanson and Austin Allison and Charles DiMarzio and Taşkın Padır and Kristen L. Dorsey}, year={2025}, eprint={2510.6852379 }, archivePrefix={arXiv}, primaryClass={cs.RO} } . Correspondence: nhanson2 [@] mit [.] edu . ",
+    "content": "We introduce the soft curvature and spectroscopy (SCANS) system: a versatile, electronics-free, fluidically actuated soft manipulator capable of assessing the spectral properties of objects either in hand or through pre-touch caging. This platform offers a wider spectral sensing capability than previous soft robotic counterparts. We perform a material analysis to explore optimal soft substrates for spectral sensing, and evaluate both pre-touch and in-hand performance. Experiments demonstrate explainable, statistical separation across diverse object classes and sizes (metal, wood, plastic, organic, paper, foam), with large spectral angle differences between items. Through linear discriminant analysis, we show that sensitivity in the near-infrared wavelengths is critical to distinguishing visually similar objects. These capabilities advance the potential of optics as a multi-functional sensory modality for soft robots. SCANS Overview . ArXiv . IEEE Xplore Coming Soon . Bibtex . @misc{hanson2025scanssoftgrippercurvature, title={SCANS: A Soft Gripper with Curvature and Spectroscopy Sensors for In-Hand Material Differentiation}, author={Nathaniel Hanson and Austin Allison and Charles DiMarzio and Taşkın Padır and Kristen L. Dorsey}, year={2025}, eprint={2510.02164}, archivePrefix={arXiv}, primaryClass={cs.RO}, url={https://arxiv.org/abs/2510.02164}, } . ",
     "url": "/",
     "relUrl": "/"
   },"9": {
     "doc": "Home",
     "title": "Home",
-    "content": "SCANS: A Soft Gripper with Curvature and Spectroscopy Sensors for In-Hand Material Differentiation . ",
+    "content": "&lt;!DOCTYPE html&gt; . SCANS: A Soft Gripper with Curvature and Spectroscopy Sensors for In-Hand Material Differentiation . ",
     "url": "/",
     "relUrl": "/"
   }
