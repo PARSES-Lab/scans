@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Force Torque Sensor Setup
+title: Spectrometer Setup
 parent: Getting Started
 nav_order: 2
 ---
 
-# Introduction
+# Spectrometer Setup
 
-Coming soon!
+Acquire Spectrometer
