@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Getting Started 
-has_children: true
-nav_order: 4
+title: Bill of Materials
+parent: Build Instructions
+nav_order: 2
 --- 
 
