@@ -5,108 +5,126 @@
     "url": "/Build_Instructions/Bill_of_Materials.html",
     "relUrl": "/Build_Instructions/Bill_of_Materials.html"
   },"1": {
+    "doc": "Pneumatic Bladder",
+    "title": "Pneumatic Bladder",
+    "content": "Printed parts: . | bladder mold parts | bladder cutting jigs | . ",
+    "url": "/Build_Instructions/Finger/Bladder.html",
+    "relUrl": "/Build_Instructions/Finger/Bladder.html"
+  },"2": {
+    "doc": "Pneumatic Bladder",
+    "title": "Materials:",
+    "content": ". | Plastic cups | Popsicle sticks | Dragonskin | . Equipment: . | Thinky mixer or similar centrifuge | Heated vacuum chamber (optional) | . ",
+    "url": "/Build_Instructions/Finger/Bladder.html#materials",
+    "relUrl": "/Build_Instructions/Finger/Bladder.html#materials"
+  },"3": {
+    "doc": "Pneumatic Bladder",
+    "title": "Bladder Casting",
+    "content": "Step 1: . ",
+    "url": "/Build_Instructions/Finger/Bladder.html#bladder-casting",
+    "relUrl": "/Build_Instructions/Finger/Bladder.html#bladder-casting"
+  },"4": {
     "doc": "Build Instructions",
     "title": "Build Instructions",
     "content": "The SCANS gripper is comprised of three SCANS fingers, the laser-cut baseplate, and the wiring and pneumatic harness to handle the electrical and air lines to the fingers. This guide will walk you through the fabrication and assembly of each component. ",
     "url": "/Build_Instructions/Build_Instructions.html",
     "relUrl": "/Build_Instructions/Build_Instructions.html"
-  },"2": {
+  },"5": {
     "doc": "Build Instructions",
     "title": "Bill of Materials",
     "content": " ",
     "url": "/Build_Instructions/Build_Instructions.html#bill-of-materials",
     "relUrl": "/Build_Instructions/Build_Instructions.html#bill-of-materials"
-  },"3": {
+  },"6": {
     "doc": "Build Instructions",
     "title": "Initial Fabrication",
     "content": "To begin assembly, 3D-print all of the components in the [Bill of Materials], and have the PCB’s fabricated. Save for the finger exoskeleton, all of the 3D-printed parts were printed on a Markforged X7 using their default settings for Onyx (Carbon-Fiber Nylon) and a 0.4mm nozzle at a 0.1mm layer height. While other filaments were not tested, it is likely that PLA, PETG, and ASA (and others) would all work provided that the nozzle size and layer height are preserved. Details about the finger exoskeleton are in the relevant section. ",
     "url": "/Build_Instructions/Build_Instructions.html#initial-fabrication",
     "relUrl": "/Build_Instructions/Build_Instructions.html#initial-fabrication"
-  },"4": {
+  },"7": {
     "doc": "Clamp",
     "title": "SCANS Clamp",
     "content": "[Insert picture here] . The clamp is the base of the SCANS finger, and is responsible for clamping down on the pneumatic bladder to maintain pressure, while also keeping the QTH bulbs aligned with the PMMA fibers embedded in the finger exoskeleton. ",
     "url": "/Build_Instructions/Finger/Clamp.html#scans-clamp",
     "relUrl": "/Build_Instructions/Finger/Clamp.html#scans-clamp"
-  },"5": {
+  },"8": {
     "doc": "Clamp",
     "title": "Printed parts needed:",
     "content": "COTS parts needed: . | M3 heat-set insert (x2) | M3 bolt (x2) | SMA threaded connector (x2) | Pneumatic coupling (x1) | . Supplies needed: . | Soldering iron (optional heat-set insert installation tips) | [large size] drill bit | [small size] drill bit | . ",
     "url": "/Build_Instructions/Finger/Clamp.html#printed-parts-needed",
     "relUrl": "/Build_Instructions/Finger/Clamp.html#printed-parts-needed"
-  },"6": {
+  },"9": {
     "doc": "Clamp",
     "title": "Instructions",
     "content": "Step 1: . After removing support material from the printed parts, insert the two heat-set threaded inserts into the clamp base. Step 2: . Ream out the waveguide holes and the spectral fiber holes. Step 3: . Screw in the SMA connectors into the threaded holes, making sure that they are fully bottomed-out. A pair of rubber-jaw pliers or rubber gloves can ensure a better grip on the threads without damaging them. Also screw in the pneumatic coupling into the nylon backstop. ",
     "url": "/Build_Instructions/Finger/Clamp.html#instructions",
     "relUrl": "/Build_Instructions/Finger/Clamp.html#instructions"
-  },"7": {
+  },"10": {
     "doc": "Clamp",
     "title": "Clamp",
     "content": " ",
     "url": "/Build_Instructions/Finger/Clamp.html",
     "relUrl": "/Build_Instructions/Finger/Clamp.html"
-  },"8": {
+  },"11": {
     "doc": "Finger",
     "title": "SCANS Finger",
     "content": "The SCANS Finger is the component with the most sub-components, and thus a page is dedicated to the fabrication of each one. The major components needed to assemble the SCANS Finger are: . | Cast silicone air bladder connected to the 3D printed clamp | PCB with components soldered | Spectral Fibers with cast silicone cladding and prisms glued | Finger exoskeleton with embedded fibers | . While most steps can be repeated, it is recommended that a single SCANS finger is completed before the two others, to ensure that all the steps are performed correctly and the finger functions as expected . ",
     "url": "/Build_Instructions/Finger/Finger.html#scans-finger",
     "relUrl": "/Build_Instructions/Finger/Finger.html#scans-finger"
-  },"9": {
+  },"12": {
     "doc": "Finger",
     "title": "Finger",
     "content": " ",
     "url": "/Build_Instructions/Finger/Finger.html",
     "relUrl": "/Build_Instructions/Finger/Finger.html"
-  },"10": {
+  },"13": {
     "doc": "Gallery",
     "title": "COMING SOON",
     "content": " ",
     "url": "/Gallery.html#coming-soon",
     "relUrl": "/Gallery.html#coming-soon"
-  },"11": {
+  },"14": {
     "doc": "Gallery",
     "title": "Gallery",
     "content": " ",
     "url": "/Gallery.html",
     "relUrl": "/Gallery.html"
-  },"12": {
+  },"15": {
     "doc": "Getting Started",
     "title": "Introduction",
     "content": "This section assumes you have an assembled SCANS gripper and want to set up the rest of the system. It is recommended you follow the guide in the order it is displayed. ",
     "url": "/Getting_Started/Getting_Started.html#introduction",
     "relUrl": "/Getting_Started/Getting_Started.html#introduction"
-  },"13": {
+  },"16": {
     "doc": "Getting Started",
     "title": "Getting Started",
     "content": " ",
     "url": "/Getting_Started/Getting_Started.html",
     "relUrl": "/Getting_Started/Getting_Started.html"
-  },"14": {
+  },"17": {
     "doc": "Operational Guide",
     "title": "Operational Guide",
     "content": "This page details the instructions for properly operating the SCANS system. ",
     "url": "/Getting_Started/Operational_Guide.html",
     "relUrl": "/Getting_Started/Operational_Guide.html"
-  },"15": {
+  },"18": {
     "doc": "Spectrometer Setup",
     "title": "Spectrometer Setup",
     "content": "Acquire Spectrometer . ",
     "url": "/Getting_Started/Spectrometers.html",
     "relUrl": "/Getting_Started/Spectrometers.html"
-  },"16": {
+  },"19": {
     "doc": "Home",
     "title": "SCANS: A Soft Gripper with Curvature and Spectroscopy Sensors for In-Hand Material Differentiation",
     "content": "Nathaniel Hanson1,2*, Austin Allison1*, Charles DiMarzio1, Taşkın Padır1,3, Kristen L. Dorsey1 . 1Northeastern University, 2MIT Lincoln Laboratory, 3Amazon Robotics . ∗These authors contributed equally . Correspondence: nhanson2 [@] mit [.] edu . ",
     "url": "/",
     "relUrl": "/"
-  },"17": {
+  },"20": {
     "doc": "Home",
     "title": "Abstract",
     "content": "We introduce the soft curvature and spectroscopy (SCANS) system: a versatile, electronics-free, fluidically actuated soft manipulator capable of assessing the spectral properties of objects either in hand or through pre-touch caging. This platform offers a wider spectral sensing capability than previous soft robotic counterparts. We perform a material analysis to explore optimal soft substrates for spectral sensing, and evaluate both pre-touch and in-hand performance. Experiments demonstrate explainable, statistical separation across diverse object classes and sizes (metal, wood, plastic, organic, paper, foam), with large spectral angle differences between items. Through linear discriminant analysis, we show that sensitivity in the near-infrared wavelengths is critical to distinguishing visually similar objects. These capabilities advance the potential of optics as a multi-functional sensory modality for soft robots. SCANS Overview . ArXiv . IEEE Xplore Coming Soon . Bibtex . @misc{hanson2025scanssoftgrippercurvature, title={SCANS: A Soft Gripper with Curvature and Spectroscopy Sensors for In-Hand Material Differentiation}, author={Nathaniel Hanson and Austin Allison and Charles DiMarzio and Taşkın Padır and Kristen L. Dorsey}, year={2025}, eprint={2510.02164}, archivePrefix={arXiv}, primaryClass={cs.RO}, url={https://arxiv.org/abs/2510.02164}, } . ",
     "url": "/",
     "relUrl": "/"
-  },"18": {
+  },"21": {
     "doc": "Home",
     "title": "Home",
     "content": "SCANS: A Soft Gripper with Curvature and Spectroscopy Sensors for In-Hand Material Differentiation . ",
