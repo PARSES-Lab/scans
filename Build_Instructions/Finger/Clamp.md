@@ -24,8 +24,8 @@ COTS parts needed:
 
 Supplies needed:
 - Soldering iron (optional heat-set insert installation tips)
-- [large size] drill bit
-- [small size] drill bit
+- [large size + 0.1mm] drill bit
+- [small size + 0.1mm] drill bit
 
 ## Instructions
 

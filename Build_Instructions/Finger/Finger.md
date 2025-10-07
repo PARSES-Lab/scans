@@ -14,3 +14,7 @@ The SCANS Finger is the component with the most sub-components, and thus a page 
 - Finger exoskeleton with embedded fibers
 
 While most steps can be repeated, it is recommended that a single SCANS finger is completed before the two others, to ensure that all the steps are performed correctly and the finger functions as expected
+
+### want to mention:
+
+- 
