@@ -3,7 +3,7 @@ layout: default
 title: Clamp
 parent: Finger
 grand_parent: Build Instructions
-nav_order: 2
+nav_order: 1
 --- 
 
 # SCANS Clamp

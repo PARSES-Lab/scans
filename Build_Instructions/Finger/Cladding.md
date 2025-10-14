@@ -3,7 +3,7 @@ layout: default
 title: Cladding
 parent: Finger
 grand_parent: Build Instructions
-nav_order: 4
+nav_order: 3
 --- 
 
 # Spectral Fiber Cladding and Prism

@@ -3,7 +3,7 @@ layout: default
 title: Pneumatic Bladder
 parent: Finger
 grand_parent: Build Instructions
-nav_order: 3
+nav_order: 2
 --- 
 
 # Pneumatic Bladder

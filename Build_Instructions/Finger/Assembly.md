@@ -3,7 +3,7 @@ layout: default
 title: Assembly
 parent: Finger
 grand_parent: Build Instructions
-nav_order: 6
+nav_order: 5
 --- 
 
 # Finger Assembly

@@ -2,7 +2,7 @@
 layout: default
 title: Gripper Assembly
 parent: Build Instructions
-nav_order: 4
+nav_order: 2
 --- 
 
 # Gripper Assembly

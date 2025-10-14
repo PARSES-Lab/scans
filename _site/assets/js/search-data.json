@@ -19,7 +19,7 @@
   },"3": {
     "doc": "Bill of Materials",
     "title": "Bill of Materials",
-    "content": " ",
+    "content": "| BOM # | DESCRIPTION | QTY. | SUPPLIER | MATERIAL | PART NUMBER | . | 1 | Bladder Clamp Top | 3 | CUSTOM PRINTED | ONYX |   | . | 2 | Bladder Clamp Bottom | 3 | CUSTOM PRINTED | ONYX |   | . | 3 | Bladder Clamp Back | 3 | CUSTOM PRINTED | ONYX |   | . ",
     "url": "/Build_Instructions/Bill_of_Materials.html",
     "relUrl": "/Build_Instructions/Bill_of_Materials.html"
   },"4": {
@@ -53,156 +53,162 @@
     "url": "/Build_Instructions/Build_Instructions.html#preliminary-steps",
     "relUrl": "/Build_Instructions/Build_Instructions.html#preliminary-steps"
   },"9": {
+    "doc": "System Calibration",
+    "title": "System Calibration",
+    "content": " ",
+    "url": "/Getting_Started/Calibration.html",
+    "relUrl": "/Getting_Started/Calibration.html"
+  },"10": {
     "doc": "Cladding",
     "title": "Spectral Fiber Cladding and Prism",
     "content": "Printed parts: . | prism alignment jig | fiber-cutting jig | cladding mold top | cladding mold bottom | . COTS parts: . | M3 heat-set inserts | M3 bolts | [imperial] heat-set inserts (x2) | 2.5mm acryilc PMMA fiber | Luer lock connector (x2) | luer lock connector cover (x1) | 3mm coated prism (x1) | . Materials: . | dp100 3M epoxy | epoxy dispensing gun | dispensing mixing tips | DragonSkin 10 NV | Silicone thinner | Titanium dioxide powder | Luer lock syringe | . Equipment: . | Thinky mixer or similar centrifuge | vacuum chamber (optional) | Hand saw/bandsaw | . ",
     "url": "/Build_Instructions/Finger/Cladding.html#spectral-fiber-cladding-and-prism",
     "relUrl": "/Build_Instructions/Finger/Cladding.html#spectral-fiber-cladding-and-prism"
-  },"10": {
+  },"11": {
     "doc": "Cladding",
     "title": "Cladding Casting",
     "content": "Preliminary Steps: . Insert M3 heat-set inserts into all holes in the cladding mold bottom. Insert [imperial] heat-set inserts into the holes in the cladding mold top, and then screw in luer locks into both holes. Trim the syringe body using a saw until only ~2cm remains. Cut a [140mm] length of 2.5mm PMMA fiber and set aside. Step 1: . Prepare the cladding mold by placing the fiber in the mold bottom and putting the mold top on. Screw in two screws at the bottom end [describe which end is which] so that the fiber is clamped in place. Now pull on the other end of the fiber until you feel that it is stretched taught, and screw in the bolts at that end. This ensures that the fiber is as straight as possible during while casting. Tighten all other bolts and set aside for now. Step 2: . Combine 10 grams of DragonSkin 10 NV Part A with [0.5?] grams of silicone thinner. Mix slightly with popsicle stick. Now pour in 10 grams of Part B along with [1?] gram of titanium dioloxide powder. Before putting the powder in it is helpful to break up small clumps with a popsicle stick. Mix until roughly combined then put in centrifuge until the silicone is a uniform opaque white (1-1.5 minutes) . Step 3: . Screw on the cut syringe end into the top luer lock in the mold and then slowly pour in the silicone mixture into the syringe. Make sure you leave room for the black syringe plunger to fit without trapping too much air. While holding the mold upright at a slight angle, gently press on the syringe plunger until silicone mixture comes out of the bottom luer lock. We have had luck with ensuring a lot of silicone mixture exits the bottom before putting on the luer lock cover. Once done, remove the syringe body from the top and leave it uncovered and prop the cladding mold at an angle. This will allow any trapped bubbles to leave through an air outlet. Allow to cure following the same instructions as the bladder casting. Step 4: . Once curing is complete, unscrew the mold and carefully separate the halves. The cladding will likely delaminate more easily from the mold bottom and stay attached to the top. Unscrew the luer lock connections and remove. Carefully peel the cladded fiber starting at one end. It may be helpful to cut the connected silicone stems with a razor blade to prevent the cladding from tearing. Step 5: . Once free, carefully remove all of the flashing along the molding seam of the fiber. This flashing should be very thin and should separate by gently pulling with a fingernail. Place the cladded fiber into the fiber-cutting jig and make two perpendicular cuts with a razor blade. There are two lengths of fibers needed per SCANS finger, so ensure you keep track of which cut you make each time. ",
     "url": "/Build_Instructions/Finger/Cladding.html#cladding-casting",
     "relUrl": "/Build_Instructions/Finger/Cladding.html#cladding-casting"
-  },"11": {
+  },"12": {
     "doc": "Cladding",
     "title": "Prism Glue-up",
     "content": "Step 1: . ",
     "url": "/Build_Instructions/Finger/Cladding.html#prism-glue-up",
     "relUrl": "/Build_Instructions/Finger/Cladding.html#prism-glue-up"
-  },"12": {
+  },"13": {
     "doc": "Cladding",
     "title": "Cladding",
     "content": " ",
     "url": "/Build_Instructions/Finger/Cladding.html",
     "relUrl": "/Build_Instructions/Finger/Cladding.html"
-  },"13": {
+  },"14": {
     "doc": "Clamp",
     "title": "SCANS Clamp",
     "content": "[Insert picture here] . The clamp is the base of the SCANS finger, and is responsible for clamping down on the pneumatic bladder to maintain pressure, while also keeping the QTH bulbs aligned with the PMMA fibers embedded in the finger exoskeleton. Printed parts needed: . | Clamp Top | Clamp Bottom | Clamp Back | . COTS parts needed: . | M3 heat-set insert (x2) | M3 bolt (x2) | SMA threaded connector (x2) | Pneumatic coupling (x1) | . Supplies needed: . | Soldering iron (optional heat-set insert installation tips) | [large size + 0.1mm] drill bit | [small size + 0.1mm] drill bit | . ",
     "url": "/Build_Instructions/Finger/Clamp.html#scans-clamp",
     "relUrl": "/Build_Instructions/Finger/Clamp.html#scans-clamp"
-  },"14": {
+  },"15": {
     "doc": "Clamp",
     "title": "Instructions",
     "content": "Preliminary Steps: . After removing support material from the printed parts, insert the two heat-set threaded inserts into the clamp base. Step 1: . Ream out the waveguide holes and the spectral fiber holes. Step 2: . (Optionally wait to install SMA connectors until after the bladder step, if you have rubber-jaw pliers) . Screw in the SMA connectors into the threaded holes in the clamp bottom, making sure that they are fully bottomed-out. A pair of rubber-jaw pliers or rubber gloves can ensure a better grip on the threads without damaging them. Also screw in the pneumatic coupling into the clamp back. ",
     "url": "/Build_Instructions/Finger/Clamp.html#instructions",
     "relUrl": "/Build_Instructions/Finger/Clamp.html#instructions"
-  },"15": {
+  },"16": {
     "doc": "Clamp",
     "title": "Clamp",
     "content": " ",
     "url": "/Build_Instructions/Finger/Clamp.html",
     "relUrl": "/Build_Instructions/Finger/Clamp.html"
-  },"16": {
+  },"17": {
     "doc": "Embedding",
     "title": "TPU Exoskeleton Printing and Fiber Embedding",
     "content": "Printed parts: . | Finger fiber trimming jig | . Materials: . | Loctite [number] | Ziro 95A TPU | 1.5mm PMMA fiber | . Equipment: . | FDM 3D printer (with 0.4mm nozzle) | . ",
     "url": "/Build_Instructions/Finger/Embedding.html#tpu-exoskeleton-printing-and-fiber-embedding",
     "relUrl": "/Build_Instructions/Finger/Embedding.html#tpu-exoskeleton-printing-and-fiber-embedding"
-  },"17": {
+  },"18": {
     "doc": "Embedding",
     "title": "Printer Setup",
     "content": "Slicer Settings . Insert a pause print on layer line [] and layer line []. Ensure that the pause happens before these lines start and not after. The important slicer settings we used are: . | insert settings | . A Note on Printing . The printer we used was a Voron 2.4 with a textured PEI build plate. The choice of printer shouldn’t matter so much, as long as you have control over the slicer and machine GCODE. Keep in mind that you will need to embed components, and having easy access to the build plate from multiple angles makes this easier. ",
     "url": "/Build_Instructions/Finger/Embedding.html#printer-setup",
     "relUrl": "/Build_Instructions/Finger/Embedding.html#printer-setup"
-  },"18": {
+  },"19": {
     "doc": "Embedding",
     "title": "Printing",
     "content": "Preliminary Steps: . Cut a roughly [mm] long section of 1.5mm PMMA fiber. Also ensure you have two cladded fiber-and-prism composite parts, one shorter and one longer. Step 1: . Prior to printing the exoskeleton, print 6 TPU prisms. These will sit in the cavity above the prism when embedding the two cladded spectral fibers. Step 2: . Once the print pauses for the first time, inspect the track for the U-shaped waveguide. Ensure that there are no blobs of filament stuck in the track, and remove them if they are. Once verified, deposit 5-6 small dots of Loctite along the waveguide track, and then lay in the 1.5mm PMMA fiber. Ensure that the fiber is not sticking up past the paused layer. Allow the Loctite to set for a few minutes, then resume the print. Step 3: . Once the print pauses again, deposit 4-5 small dots of Loctite along each spectral fiber track, and lay the spectral fibers in. Take extra care around the prism cavity, and gently press the prism into place. Once laid in, put a TPU prism on top of each prism, and resume the print. Step 4: . Once the print is finished, remove it from the printer, and remove all support material. If there is excessive stringing and blobbing, then use a heat gun/solder reflow gun on a medium-low heat. Next, using the fiber trimming jig and a razor blade, trim all fibers. Finally, using a razor or X-acto knife, trim away the exposed cladding of the spectral fibers so only the PMMA extends past the TPU exoskeleton. ",
     "url": "/Build_Instructions/Finger/Embedding.html#printing",
     "relUrl": "/Build_Instructions/Finger/Embedding.html#printing"
-  },"19": {
+  },"20": {
     "doc": "Embedding",
     "title": "Troubleshooting",
     "content": "Common points of failure: . | TPU not bridging well | TPU getting stuck during embedding | support material not releasing cleanly | other TPU print issues | . ",
     "url": "/Build_Instructions/Finger/Embedding.html#troubleshooting",
     "relUrl": "/Build_Instructions/Finger/Embedding.html#troubleshooting"
-  },"20": {
+  },"21": {
     "doc": "Embedding",
     "title": "Embedding",
     "content": " ",
     "url": "/Build_Instructions/Finger/Embedding.html",
     "relUrl": "/Build_Instructions/Finger/Embedding.html"
-  },"21": {
+  },"22": {
     "doc": "Finger",
     "title": "SCANS Finger",
     "content": "The SCANS Finger is the component with the most sub-components, and thus a page is dedicated to the fabrication of each one. The major components needed to assemble the SCANS Finger are: . | Cast silicone air bladder connected to the 3D printed clamp | PCB with components soldered | Spectral Fibers with cast silicone cladding and prisms glued | Finger exoskeleton with embedded fibers | . While most steps can be repeated, it is recommended that a single SCANS finger is completed before the two others, to ensure that all the steps are performed correctly and the finger functions as expected . ",
     "url": "/Build_Instructions/Finger/Finger.html#scans-finger",
     "relUrl": "/Build_Instructions/Finger/Finger.html#scans-finger"
-  },"22": {
+  },"23": {
     "doc": "Finger",
     "title": "Finger",
     "content": " ",
     "url": "/Build_Instructions/Finger/Finger.html",
     "relUrl": "/Build_Instructions/Finger/Finger.html"
-  },"23": {
+  },"24": {
     "doc": "Gallery",
     "title": "COMING SOON",
     "content": " ",
     "url": "/Gallery.html#coming-soon",
     "relUrl": "/Gallery.html#coming-soon"
-  },"24": {
+  },"25": {
     "doc": "Gallery",
     "title": "Gallery",
     "content": " ",
     "url": "/Gallery.html",
     "relUrl": "/Gallery.html"
-  },"25": {
+  },"26": {
     "doc": "Getting Started",
     "title": "Introduction",
     "content": "This section assumes you have an assembled SCANS gripper and want to set up the rest of the system. It is recommended you follow the guide in the order it is displayed. ",
     "url": "/Getting_Started/Getting_Started.html#introduction",
     "relUrl": "/Getting_Started/Getting_Started.html#introduction"
-  },"26": {
+  },"27": {
     "doc": "Getting Started",
     "title": "Getting Started",
     "content": " ",
     "url": "/Getting_Started/Getting_Started.html",
     "relUrl": "/Getting_Started/Getting_Started.html"
-  },"27": {
+  },"28": {
     "doc": "Gripper Assembly",
     "title": "Gripper Assembly",
     "content": "Printed Parts: . | Pneumatic/electrical harness | gripper spacer | . COTS Parts Needed: . | M3 bolts [various] | M3 nuts (x9) | Pneumatic coupling (x3) | Female barrel jack connector (x1) | Pneumatic tubing | M3 heat-set inserts | [M5?] bolts (x4) | . Materials Needed: . | Solder | heatshrink tubing | [28?] AWG stranded-core wire | Flush cutters/wire nippers | Wire strippers | . Equipment Needed: . | Soldering Iron | Lighter or heat gun | . ",
     "url": "/Build_Instructions/Gripper_Assembly.html",
     "relUrl": "/Build_Instructions/Gripper_Assembly.html"
-  },"28": {
+  },"29": {
     "doc": "Gripper Assembly",
     "title": "Pneumatic harness and wiring",
     "content": "Step 1: . Take one of the digikey pre-crimped female wires and cut it in half. Insert both halves into one of the JST connectors to make one cable. Repeat two more times for three cables. Step 2: . Begin by trimming ~5mm off of the longest lead of the female barrel jack connector. Solder the wires according to [this diagram below]. Trimming of some wires may be needed, and lengthening of others may also be needed to reach the furthest finger while also leaving enough slack for the robot arm once the gripper is installed. It is recommended to add heatshrink to the solder joints on the barrel jack. Step 3: . Screw in the barrel jack connector to the 3D-printed harness in the proper orientation. Snap in the pneumatic fittings as well. ",
     "url": "/Build_Instructions/Gripper_Assembly.html#pneumatic-harness-and-wiring",
     "relUrl": "/Build_Instructions/Gripper_Assembly.html#pneumatic-harness-and-wiring"
-  },"29": {
+  },"30": {
     "doc": "Gripper Assembly",
     "title": "Baseplate Assembly",
     "content": "Step 1: . With the top side of the acrylic baseplate on the table, install the two M3 heat-set inserts into the bottom, ensuring they are flush with the surface by pressing with a flat piece of metal. Screw in the pneumatic and electrical harness into these two holes in [this orientation]. Step 2: . Insert a SCANS finger into each hole until bottomed out against the nuts on the finger. Screw in more nuts from the backside. Plug in the three wired connections to the back of each finger. Step 3: . ",
     "url": "/Build_Instructions/Gripper_Assembly.html#baseplate-assembly",
     "relUrl": "/Build_Instructions/Gripper_Assembly.html#baseplate-assembly"
-  },"30": {
+  },"31": {
     "doc": "Operational Guide",
     "title": "Operational Guide",
     "content": "This page details the instructions for properly operating the SCANS system. ",
     "url": "/Getting_Started/Operational_Guide.html",
     "relUrl": "/Getting_Started/Operational_Guide.html"
-  },"31": {
+  },"32": {
     "doc": "Spectrometer Setup",
     "title": "Spectrometer Setup",
     "content": "Acquire Spectrometer . ",
     "url": "/Getting_Started/Spectrometers.html",
     "relUrl": "/Getting_Started/Spectrometers.html"
-  },"32": {
+  },"33": {
     "doc": "Home",
     "title": "SCANS: A Soft Gripper with Curvature and Spectroscopy Sensors for In-Hand Material Differentiation",
     "content": "Nathaniel Hanson1,2*, Austin Allison1*, Charles DiMarzio1, Taşkın Padır1,3, Kristen L. Dorsey1 . 1Northeastern University, 2MIT Lincoln Laboratory, 3Amazon Robotics . ∗These authors contributed equally . Correspondence: nhanson2 [@] mit [.] edu . ",
     "url": "/",
     "relUrl": "/"
-  },"33": {
+  },"34": {
     "doc": "Home",
     "title": "Abstract",
     "content": "We introduce the soft curvature and spectroscopy (SCANS) system: a versatile, electronics-free, fluidically actuated soft manipulator capable of assessing the spectral properties of objects either in hand or through pre-touch caging. This platform offers a wider spectral sensing capability than previous soft robotic counterparts. We perform a material analysis to explore optimal soft substrates for spectral sensing, and evaluate both pre-touch and in-hand performance. Experiments demonstrate explainable, statistical separation across diverse object classes and sizes (metal, wood, plastic, organic, paper, foam), with large spectral angle differences between items. Through linear discriminant analysis, we show that sensitivity in the near-infrared wavelengths is critical to distinguishing visually similar objects. These capabilities advance the potential of optics as a multi-functional sensory modality for soft robots. SCANS Overview . ArXiv . IEEE Xplore Coming Soon . Bibtex . @misc{hanson2025scanssoftgrippercurvature, title={SCANS: A Soft Gripper with Curvature and Spectroscopy Sensors for In-Hand Material Differentiation}, author={Nathaniel Hanson and Austin Allison and Charles DiMarzio and Taşkın Padır and Kristen L. Dorsey}, year={2025}, eprint={2510.02164}, archivePrefix={arXiv}, primaryClass={cs.RO}, url={https://arxiv.org/abs/2510.02164}, } . ",
     "url": "/",
     "relUrl": "/"
-  },"34": {
+  },"35": {
     "doc": "Home",
     "title": "Home",
     "content": "SCANS: A Soft Gripper with Curvature and Spectroscopy Sensors for In-Hand Material Differentiation . ",

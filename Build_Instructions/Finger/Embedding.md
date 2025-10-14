@@ -2,8 +2,8 @@
 layout: default
 title: Embedding
 parent: Finger
-grand_parent: Build Instruction
-nav_order: 5
+grand_parent: Build Instructions
+nav_order: 4
 ---
 
 # TPU Exoskeleton Printing and Fiber Embedding
