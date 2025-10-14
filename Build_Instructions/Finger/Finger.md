@@ -2,6 +2,7 @@
 layout: default
 title: Finger
 parent: Build Instructions
+has_children: true
 nav_order: 3
 --- 
 
@@ -15,6 +16,3 @@ The SCANS Finger is the component with the most sub-components, and thus a page 
 
 While most steps can be repeated, it is recommended that a single SCANS finger is completed before the two others, to ensure that all the steps are performed correctly and the finger functions as expected
 
-### want to mention:
-
-- 
