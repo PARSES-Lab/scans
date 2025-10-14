@@ -2,6 +2,7 @@
 layout: default
 title: Clamp
 parent: Finger
+grand_parent: Build Instructions
 nav_order: 2
 --- 
 
