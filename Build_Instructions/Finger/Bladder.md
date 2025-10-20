@@ -8,6 +8,8 @@ nav_order: 2
 
 # Pneumatic Bladder
 
+[Components needed:]({{ '/Build_Instructions/Bill_of_Materials/' | relative_url }})
+
 Printed parts:
 - bladder mold parts
 - bladder cutting jigs

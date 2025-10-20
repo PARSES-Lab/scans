@@ -8,7 +8,7 @@ nav_order: 5
 
 # Finger Assembly
 
-Components needed:
+Components Needed:
 - Bladder and Clamp sub-assembly
 - TPU exoskeleton with embedded components
 - PCB with all components soldered

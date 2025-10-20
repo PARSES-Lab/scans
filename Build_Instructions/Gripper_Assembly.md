@@ -2,7 +2,7 @@
 layout: default
 title: Gripper Assembly
 parent: Build Instructions
-nav_order: 2
+nav_order: 3
 --- 
 
 # Gripper Assembly
@@ -43,7 +43,7 @@ Begin by trimming ~5mm off of the longest lead of the female barrel jack connect
 
 ### Step 3:
 
-Screw in the barrel jack connector to the 3D-printed harness in the proper orientation. Snap in the pneumatic fittings as well.
+Insert the barrel jack connector into the electrical and pneumatic harness ensuring that the barrel terminal is coming out of the side that was flat on the build plate while printing. Snap in three of the pneumatic couplings as well.
 
 ## Baseplate Assembly
 
@@ -57,4 +57,4 @@ Insert a SCANS finger into each hole until bottomed out against the nuts on the 
 
 ### Step 3:
 
-
+Place the palm spacer on the baseplate between the three fingers and attach the baseplate to the UR3 with four [M6] bolts.

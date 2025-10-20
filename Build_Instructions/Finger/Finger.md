@@ -3,7 +3,7 @@ layout: default
 title: Finger
 parent: Build Instructions
 has_children: true
-nav_order: 3
+nav_order: 2
 --- 
 
 # SCANS Finger

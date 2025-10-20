@@ -54,7 +54,7 @@ Combine 10 grams of DragonSkin 10 NV Part A with [0.5?] grams of silicone thinne
 
 ### Step 3:
 
-Screw on the cut syringe end into the top luer lock in the mold and then slowly pour in the silicone mixture into the syringe. Make sure you leave room for the black syringe plunger to fit without trapping too much air. While holding the mold upright at a slight angle, gently press on the syringe plunger until silicone mixture comes out of the bottom luer lock. We have had luck with ensuring a lot of silicone mixture exits the bottom before putting on the luer lock cover. Once done, remove the syringe body from the top and *leave it uncovered* and prop the cladding mold at an angle. This will allow any trapped bubbles to leave through an air outlet. Allow to cure following the same instructions as the bladder casting. 
+Screw on the cut syringe end into the top luer lock in the mold and then slowly pour the silicone mixture into the syringe, until the syringe body is filled around 3/4 of the way. Make sure you leave room for the syringe plunger to fit without trapping too much air. While holding the mold upright at a slight angle, *gently* press on the syringe plunger until silicone mixture comes out of the bottom luer lock. We have had luck with ensuring a lot of silicone mixture exits the bottom before putting on the luer lock cover. Once done, remove the syringe body from the top and *leave it uncovered* and prop the cladding mold at an angle. This will allow any trapped bubbles to leave through an air outlet. Allow to cure following the same instructions as the bladder casting. 
 
 ### Step 4:
 

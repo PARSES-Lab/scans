@@ -30,15 +30,11 @@ The important slicer settings we used are:
 
 - insert settings
 
-### A Note on Printing
-
-The printer we used was a Voron 2.4 with a textured PEI build plate. The choice of printer shouldn't matter so much, as long as you have control over the slicer and machine GCODE. Keep in mind that you will need to embed components, and having easy access to the build plate from multiple angles makes this easier. 
-
 ## Printing
 
 ### Preliminary Steps:
 
-Cut a roughly [mm] long section of 1.5mm PMMA fiber. Also ensure you have two cladded fiber-and-prism composite parts, one shorter and one longer. 
+Cut a roughly [mm] long section of 1.5mm PMMA fiber. Also ensure you have two cladded fiber-and-prism composite parts, one shorter and one longer.
 
 ### Step 1: 
 
