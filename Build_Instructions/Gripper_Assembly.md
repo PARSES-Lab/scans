@@ -49,7 +49,7 @@ Insert the barrel jack connector into the electrical and pneumatic harness ensur
 
 ### Step 1:
 
-With the top side of the acrylic baseplate on the table, install the two M3 heat-set inserts into the bottom, ensuring they are flush with the surface by pressing with a flat piece of metal. Screw in the pneumatic and electrical harness into these two holes in [this orientation].
+With the bottom side of the acrylic baseplate on the table, install three M3 heat-set inserts into the top, ensuring they are flush with the surface by pressing with a flat piece of metal. Screw in the pneumatic and electrical harness into these two holes from the other side so that it is on the bottom.
 
 ### Step 2:
 
