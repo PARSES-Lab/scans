@@ -28,32 +28,32 @@ nav_order: 1
 | 19    | [Pneumatic and Electrical Harness](https://github.com/PARSES-Lab/scans/blob/main/CAD/Gripper/STL/Pneumatic_and_Electrical_Harness.STL)        | 1    |           |           |              |
 | 20    | [Baseplate](https://github.com/PARSES-Lab/scans/blob/main/CAD/Gripper/STL/Baseplate.STL)                                                      | 1    |           |   Lasercut   |              |
 | 39    | [TPU Filament](https://www.amazon.com/ZIRO-Filament-Flexible-Dimensional-Accuracy/dp/B01INRE4X0/ref=sr_1_5?crid=1NOB01RG4P6YG&dib=eyJ2IjoiMSJ9.3IlzGHbYYz-PR7oRGG8anWS6tI0z_D2AJhLI5fNZoeg09b_Ns8sASbHFyFlu4U-m0dAqUMMrQP5G8LCH0R7q6glIjvaowxFnO0AEikDlXTdt_tY8BUFzkvGDtF4ZX8Go8rKwCLl2F5bj7k6Njvh9puxy1Du0oTxb9JyE6jfLafgL5rpUzQP32ASsIyLAPlKav1DQxDOP2KuVXcA2MiYW4Uk3ji2m3PI6V5OvfILZKhIvWgt6rMXElze14wjw_iF866fHVpSZV-bEPuk5JVqfiQ.aWH3Q0WORGG09F_dU-qgFKk3cDLnu50Q9UdC7XH1U_w&dib_tag=se&keywords=ziro%2Btpu%2B95a&qid=1717794888&sprefix=ziro%2Btpu%2B95%2Caps%2C92&sr=8-5&th=1)         |  1    |    Amazon       |    TPU       |     N/A         |
-| 39    | [Acrylic Sheet](https://www.mcmaster.com/8505K754-8505K913/)         |  1    |    McMaster-Carr       |    Acrylic       |       8505K754-8505K913       |
-| 21    | [M3 Tapered Heat-Set Inserts](https://www.mcmaster.com/94180a331/)         |  19    |    McMaster-Carr       |    Brass       |     94180a331         |
-| 22    | [10-32 Tapered Heat-Set Inserts](https://www.mcmaster.com/93365A240/)         |  2    |    McMaster-Carr       |    Brass       |       93365A240       |
-| 23    | [M3x8 Socket Head Screw](https://www.mcmaster.com/91290A113/)         |   6   |    McMaster-Carr       |   Black Oxide Alloy Steel        |     91290A113         |
-| 24    | [M3x12 Socket Heat Screw](https://www.mcmaster.com/91290a117/)         |   10   |    McMaster-Carr       |     Black Oxide Alloy Steel      |      91290a117        |
-| 25    | [M3x30 Button Head Screws](https://www.mcmaster.com/91306A725/)         |   9   |     McMaster-Carr      |    Zinc-Plated Steel       |      91306A725        |
-| 26    | [M3 Washer](https://www.mcmaster.com/93475A210/)         |   19   |     McMaster-Carr      |    Stainless Steel       |     93475A210         |
-| 27    | [M3 Hex Nut](https://www.mcmaster.com/90591A250/)         |  18    |     McMaster-Carr      |    Zinc-Plated Steel       |      90591A250        |
-| 28    | [M6 Socket Head Screw](https://www.mcmaster.com/91292A135/)         |  4    |     McMaster-Carr      |     Stainless Steel      |       91292A135       |
-| 29    | [Push-to-Connect Tube Fitting](https://www.mcmaster.com/5779K11/)         |  3    |     McMaster-Carr      |     Plastic      |      5779K11        |
-| 30    | [Threaded Male Pneumatic Fitting](https://www.smcpneumatics.com/KQ2H01-M5A1.html)         |   3   |    SMC Pneumatics       |    Brass       |      KQ2H01-M5A1        |
-| 31    | [Threaded SMA Connector]()         |      |           |           |              |
-| 32    | [3mm Coated Prisms](https://toweroptical.com/micro-prisms/)         |  6    |    Tower Optical Corporation       |    BK-7 glass       |     4531-0026         |
-| 33    | [1mm PMMA Fiber](https://www.amazon.com/dp/B0B2SJTNVT?ref=ppx_yo2ov_dt_b_product_details&th=1)         |      |           |           |              |
-| 34    | [2.5mm PMMA Fiber](https://www.amazon.com/dp/B09J152TFM?ref=ppx_yo2ov_dt_b_product_details&th=1)         |   1   |     Amazon      |     PMMA      |      N/A        |
-| 35    | [Luer Lock Tube Coupling](https://www.mcmaster.com/51525K235/)         |   2   |     McMaster-Carr      |    Polypropylene       |      51525K235        |
-| 36    | [Luer Lock End Plug](https://www.mcmaster.com/51525K244/)         |   1   |    McMaster-Carr       |    Polycarbonate       |      51525K244        |
-| 37    | [Metal D-shaft]()         |      |           |           |              |
-| 38    | [Rubber Bands](https://www.amazon.com/gp/product/B0DNYY3422/ref=ox_sc_act_title_1?smid=A2D5FCE8I2967C&psc=1)         |   3   |    Amazon       |    Rubber       |      N/A        | 
+| 39    | [Acrylic Sheet](https://www.mcmaster.com/8505K754-8505K913/)                                                                                  |   1    |    McMaster-Carr       |    Acrylic       |       8505K754-8505K913       |
+| 21    | [M3 Tapered Heat-Set Inserts](https://www.mcmaster.com/94180a331/)                                                                            |   19   |    McMaster-Carr       |    Brass       |     94180a331         |
+| 22    | [10-32 Tapered Heat-Set Inserts](https://www.mcmaster.com/93365A240/)                                                                         |   2    |    McMaster-Carr       |    Brass       |       93365A240       |
+| 23    | [M3x8 Socket Head Screw](https://www.mcmaster.com/91290A113/)                                                                                 |   6    |    McMaster-Carr       |   Black Oxide Alloy Steel        |     91290A113         |
+| 24    | [M3x12 Socket Heat Screw](https://www.mcmaster.com/91290a117/)                                                                                |   10   |    McMaster-Carr       |     Black Oxide Alloy Steel      |      91290a117        |
+| 25    | [M3x30 Button Head Screws](https://www.mcmaster.com/91306A725/)                                                                               |   9    |     McMaster-Carr      |    Zinc-Plated Steel       |      91306A725        |
+| 26    | [M3 Washer](https://www.mcmaster.com/93475A210/)                                                                                              |   19   |     McMaster-Carr      |    Stainless Steel       |     93475A210         |
+| 27    | [M3 Hex Nut](https://www.mcmaster.com/90591A250/)                                                                                             |   18   |     McMaster-Carr      |    Zinc-Plated Steel       |      90591A250        |
+| 28    | [M6 Socket Head Screw](https://www.mcmaster.com/91292A135/)                                                                                   |   4    |     McMaster-Carr      |     Stainless Steel      |       91292A135       |
+| 29    | [Push-to-Connect Tube Fitting](https://www.mcmaster.com/5779K11/)                                                                             |   3    |     McMaster-Carr      |     Plastic      |      5779K11        |
+| 30    | [Threaded Male Pneumatic Fitting](https://www.smcpneumatics.com/KQ2H01-M5A1.html)                                                             |   3    |    SMC Pneumatics       |    Brass       |      KQ2H01-M5A1        |
+| 31    | [Threaded SMA Connector](https://www.thorlabs.com/thorproduct.cfm?partnumber=HASMA#ad-image-0)                                                |   6    |    Thorlabs       |   Stainless Steel        |    HASMA      |
+| 32    | [3mm Coated Prisms](https://toweroptical.com/micro-prisms/)                                                                                   |   6    |    Tower Optical Corporation       |    BK-7 glass       |     4531-0026         |
+| 33    | [1mm PMMA Fiber](https://www.amazon.com/dp/B0B2SJTNVT?ref=ppx_yo2ov_dt_b_product_details&th=1)                                                |   1    |    Amazon        |     PMMA      |     N/A          |
+| 34    | [2.5mm PMMA Fiber](https://www.amazon.com/dp/B09J152TFM?ref=ppx_yo2ov_dt_b_product_details&th=1)                                              |   1    |     Amazon      |     PMMA      |      N/A        |
+| 35    | [Luer Lock Tube Coupling](https://www.mcmaster.com/51525K235/)                                                                                |   2    |     McMaster-Carr      |    Polypropylene       |      51525K235        |
+| 36    | [Luer Lock End Plug](https://www.mcmaster.com/51525K244/)                                                                                     |   1    |    McMaster-Carr       |    Polycarbonate       |      51525K244        |
+| 37    | [Metal D-shaft]()                                                                                                                             |        |           |           |              |
+| 38    | [Rubber Bands](https://www.amazon.com/gp/product/B0DNYY3422/ref=ox_sc_act_title_1?smid=A2D5FCE8I2967C&psc=1)                                  |   3    |    Amazon       |    Rubber       |      N/A        | 
 | 39    | []()         |      |           |           |              |
-| 40    | [Pneumatic Tubing](https://www.mcmaster.com/5233k51/)         |   1   |     McMaster-Carr      |    PVC       |     5233k51         |
-| 35    | [PCB](site to order from)         |      |           |           |              |
-| 37    | [QTH Bulbs](https://internationallight.com/instrumentation-and-sensor-light-sources/1895-t1-miniature-incandescent-ndir-lamp)         |  6    |     International Light Technologies      |    Quartz-Tungsten Halogen       |     1150-9A         |
-| 36    | [SMD JST 2-Pin Header](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-SM4-TB/926641?so=88600659&content=productdetail_US&mkt_tok=MDI4LVNYSy01MDcAAAGVbEwAOJwYMstC_ZdsRmZEgDDfHoU0XAC-E_wlwPNA9K-ETrX6ASz7HFihW2JUo3TovK82xfS-7kkgpJ6WGm2pYn8C276LryOocMtMQ_pe)         |  3    |    Digikey       |     Plastic      |      B2B-PH-SM4-TB        |
-| 37    | [JST 2-Pin Female Socket](https://www.digikey.com/en/products/detail/jst-sales-america-inc/PHR-2/608607?so=88600659&content=productdetail_US&mkt_tok=MDI4LVNYSy01MDcAAAGVbEwAODJemHDDUQQ45mnXezS3eeiH1ky72m0NMIH9ni2dDT-oFsyZmq_oyunlR-o4qpn7Vv_Cn-doLTi8gljN6SgA-nxGZaerROE2dVr2)         |   3   |     Digikey      |     Plastic      | PHR-2        |
-| 38    | [JST Pre-Crimped Wires](https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASPHSPH24K305/6009459?so=88600659&content=productdetail_US&mkt_tok=MDI4LVNYSy01MDcAAAGVbEwAOFFdD_CrKmIPcfnq4KkiBep-C--jUZUmg59-MlzDaan11hnn4tqawGRnzjw1y8oIkZN8Y2GYSG-lYA4WeC_QwDme8NlTMs8J8ynC)         |  3    |     Digikey      |    Wire       |       ASPHSPH24K305       |
+| 40    | [Pneumatic Tubing](https://www.mcmaster.com/5233k51/)                                                                                         |   1    |     McMaster-Carr      |    PVC       |     5233k51         |
+| 35    | [PCB](site to order from)                                                                                                                     |        |           |           |              |
+| 37    | [QTH Bulbs](https://internationallight.com/instrumentation-and-sensor-light-sources/1895-t1-miniature-incandescent-ndir-lamp)                 |   6    |     International Light Technologies      |    Quartz-Tungsten Halogen       |     1150-9A         |
+| 36    | [SMD JST 2-Pin Header](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-SM4-TB/926641?so=88600659&content=productdetail_US&mkt_tok=MDI4LVNYSy01MDcAAAGVbEwAOJwYMstC_ZdsRmZEgDDfHoU0XAC-E_wlwPNA9K-ETrX6ASz7HFihW2JUo3TovK82xfS-7kkgpJ6WGm2pYn8C276LryOocMtMQ_pe)                   |   3    |    Digikey       |     Plastic      |      B2B-PH-SM4-TB        |
+| 37    | [JST 2-Pin Female Socket](https://www.digikey.com/en/products/detail/jst-sales-america-inc/PHR-2/608607?so=88600659&content=productdetail_US&mkt_tok=MDI4LVNYSy01MDcAAAGVbEwAODJemHDDUQQ45mnXezS3eeiH1ky72m0NMIH9ni2dDT-oFsyZmq_oyunlR-o4qpn7Vv_Cn-doLTi8gljN6SgA-nxGZaerROE2dVr2)                   |   3   |     Digikey      |     Plastic      | PHR-2        |
+| 38    | [JST Pre-Crimped Wires](https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASPHSPH24K305/6009459?so=88600659&content=productdetail_US&mkt_tok=MDI4LVNYSy01MDcAAAGVbEwAOFFdD_CrKmIPcfnq4KkiBep-C--jUZUmg59-MlzDaan11hnn4tqawGRnzjw1y8oIkZN8Y2GYSG-lYA4WeC_QwDme8NlTMs8J8ynC)                   |  3    |     Digikey      |    Wire       |       ASPHSPH24K305       |
 | 39    | [24 AWG Stranded Wire]()         |      |           |           |              |
 | 35    | [Heatshrink]()         |      |           |           |              |
 | 36    | [Panel Mount Barrel Jack](https://www.amazon.com/Fancasee-Female-Socket-Connector-Adapter/dp/B07Y8KKSR1/ref=sr_1_1?crid=4IJHPAV2P4AN&dib=eyJ2IjoiMSJ9.yj_hNKGCHYZD8FvfgrSZ0-zzbdPfeL0tVy7gQCES0SYlDgp3vRdlDZud4F-dL8bq990vUquRvPuq56UAQBlOTd1Xg5WS8uTTrJcOkM5U_-He5QdnmQpyeD_WTUD8MAngigcnYmfKqhit0B3Pofw1su6MHCzVbmWZm5y35R8J1M7080YbSf9F4Sk1ixexNcKxyZbunsE2AVSV8-SjfnECpdFWZCXtPlETTZU_peAsVyA.5oe1ukaubdWEF9EU0zoDZ4ZAXWVy-i5o8Y33k30zI-I&dib_tag=se&keywords=fancasee+5.5mm+x+2.5mm+female+dc+power+jack+socket+panel+mount&qid=1726515878&sprefix=fancasee+5.5mm+x+2.5mm+female+dc+power+jack+socket+panel+mount%2Caps%2C64&sr=8-1)         |  1    |    Amazon       |    Aluminum       |     N/A         |
@@ -67,11 +67,11 @@ nav_order: 1
 | 35    | [Silpoxy]()         |      |           |           |              |
 | 36    | [Titanium Dioxide]()         |      |           |           |              |
 | 37    | []()         |      |           |           |              |
-| 38    | [DP100 epoxy]()         |      |           |           |              |
+| 38    | [DP100 epoxy](https://www.amazon.com/3M-Scotch-Weld-08976-Applicator-DP100Plus/dp/B07G561G2C/)         |   1   |    Amazon       |           |              |
 | 39    | [Loctite]()         |      |           |           |              |
-| 35    | [Epoxy gun]()         |      |           |           |              |
-| 36    | [gun tip]()         |      |           |           |              |
-| 37    | [fine needle tip]()         |      |           |           |              |
+| 35    | [Epoxy Dispenser](https://www.amazon.com/Dispenser-50ml-Dispensing-Impression-Mixing/dp/B07JMXTBW6/?th=1)         |  1    |    Amazon       |           |              |
+| 36    | [Mixing Nozzle](https://www.amazon.com/Pieces-Adhesive-Mixing-Nozzle-Applicatior/dp/B07T72C2TB/)         |   1   |    Amazon       |           |              |
+| 37    | [Luer Lock Needle Tip](https://www.mcmaster.com/75165A671/)         |   1   |    McMaster-Carr       |           |     75165A671         |
 | 38    | []()         |      |           |           |              |
 | 39    | []()         |      |           |           |              |
 

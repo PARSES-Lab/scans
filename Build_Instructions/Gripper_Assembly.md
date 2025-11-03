@@ -9,25 +9,25 @@ nav_order: 3
 
 Printed Parts:
 - Pneumatic/electrical harness
-- gripper spacer
+- Gripper Spacer
 
-COTS Parts Needed:
+COTS Parts:
 - M3 bolts [various]
 - M3 nuts (x9)
 - Pneumatic coupling (x3)
 - Female barrel jack connector (x1)
 - Pneumatic tubing
 - M3 heat-set inserts
-- [M5?] bolts (x4)
+- M5 socket head screw (x4)
 
-Materials Needed:
+Materials/Tools:
 - Solder
 - heatshrink tubing
 - [28?] AWG stranded-core wire
 - Flush cutters/wire nippers
 - Wire strippers
 
-Equipment Needed:
+Equipment:
 - Soldering Iron
 - Lighter or heat gun
 

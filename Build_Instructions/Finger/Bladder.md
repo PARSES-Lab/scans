@@ -10,19 +10,22 @@ nav_order: 2
 
 [Components needed:]({{ '/Build_Instructions/Bill_of_Materials/' | relative_url }})
 
-Printed parts:
-- bladder mold parts
-- bladder cutting jigs
+Printed Parts:
+- Bladder mold parts
+- Bladder cutting jigs
 
-Materials:
+COTS Parts:
+- M3 nuts (x3)
+- M3x30 button head bolts (x3) 
+
+Materials/Tools:
 - Metal D-shaft 
 - Rubber clamps
 - Plastic cups
 - Popsicle sticks
 - Dragonskin 20
 - Razor blade
-- M3 nuts (x3)
-- M3 Bolts (x3) [to hold clamp and PCB together]
+
 Equipment:
 - Thinky mixer or similar centrifuge
 - Heated vacuum chamber (optional)

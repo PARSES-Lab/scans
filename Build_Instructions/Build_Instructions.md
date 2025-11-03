@@ -24,7 +24,6 @@ The printing orientation of the parts should be evident from their design, and a
 The printer we used was a Voron 2.4 with a textured PEI build plate. The choice of printer shouldn't matter so much, as long as you have good control over the slicer. Additionally, you will need to embed components, and having easy access to the build plate from multiple angles makes this easier. Additional slicing and printing instructions are detailed in the [Embedding]({{ '/Build_Instructions/Finger/Embedding/' | relative_url }}) page.
 
 
-
 ### Acrylic Baseplate
 
 The baseplate was made out of lasercut acrylic, with mounting holes for installation on a UR3 arm. To accommodate other mounting styles, a blank STEP file with no mounting holes has been provided [here](https://github.com/PARSES-Lab/scans/blob/main/CAD/Gripper/STEP/Baseplate_Blank.STEP){:target="_blank"}.
